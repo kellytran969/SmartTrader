@@ -4,7 +4,7 @@ A full-stack paper-trading platform: a **Python/FastAPI market-data engine**
 with a centralized Data Manager (token-bucket rate limiting + multi-level
 caching) and live price streaming, an **Express/Node API** (JWT auth,
 portfolios, trade execution, Stripe funding), and a **React dashboard** with
-real-time portfolio tracking.
+real-time portfolio tracking
 
 ```
 ┌─────────────┐      REST / WS       ┌──────────────────────┐
